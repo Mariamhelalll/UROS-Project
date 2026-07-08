@@ -1,0 +1,7 @@
+monai-weekly[ignite,nibabel,tensorboard,mlflow]
+torch
+nibabel
+matplotlib
+scikit-learn
+tqdm
+
